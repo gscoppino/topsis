@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+.projectignore
+.vscode
+__pycache__
+envs
+kernel.json
