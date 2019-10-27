@@ -1,3 +1,9 @@
+An implementation of classic TOPSIS (individual decision makers, quantitative criterion).
+
+Implemented to the specification of:
+Roszkowska, Ewa "MULTI-CRITERIA DECISION MAKING MODELS BY APPLYING THE TOPSIS METHOD TO CRISP AND INTERVAL DATA"
+
+
 # Usage
 
   * Run unit test: `anaconda-project run pytest test_topsis.py`
